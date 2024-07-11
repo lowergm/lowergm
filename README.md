@@ -1,5 +1,5 @@
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowergm&bg_color=000000&title_color=4493f8&text_color=ffff00&border_color=ffff00&hide_progress=true&langs_count=20&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowergm&bg_color=000000&title_color=4493f8&text_color=ffff00&border_color=ffff00&hide_progress=false&langs_count=20&layout=compact" />
 </div>
 
 ### Conquistas do GitHub
